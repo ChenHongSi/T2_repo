@@ -4,3 +4,4 @@ git checkout test.
 hahahah.
 sasasasasa.
 a simple test and babababab。
+bug fixed.
